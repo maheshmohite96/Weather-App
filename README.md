@@ -1,2 +1,2 @@
 # Weather-App
-Create weather App Using HTML, CSS and JS
+Create weather App Using HTML, CSS, JS and API
